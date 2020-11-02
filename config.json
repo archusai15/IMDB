@@ -1,0 +1,12 @@
+{  
+"tablelist": [{"Name": "Genre"},{"Name": "Movie_Genre"},{"Name": "Movie"},{"Name": "Occupation"},{"Name": "Cast"},{"Name": "Movie_Cast"}],
+"filepath": "C:\\Users\\14053\\Downloads\\LegalSheild\\",
+"infilepath": "C:\\Users\\14053\\Downloads\\imdb-extensive-dataset\\",
+"outfilepath": "C:\\Users\\14053\\Downloads\\LegalSheild\\Input_Data\\",
+"dialect": "mssql+pymssql",
+"sql_username": "sa",
+"sql_password": "K2cxyj4b@",
+"server": "localhost",
+"port": 1433,
+"database": "lstest"
+}
